@@ -8,4 +8,4 @@ npm start
 ```
 
 # Credits
-stephengrider's course on React.
+stephengrider
